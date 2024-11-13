@@ -1,4 +1,4 @@
-# Statement of work - Common Knowledge and Wile E Coyote
+# Statement of Work - Common Knowledge and Wile E Coyote
 
 ## Supplier
 
