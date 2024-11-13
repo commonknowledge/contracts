@@ -161,7 +161,7 @@
 
     1.  Common Knowledge will issue invoices for the Work on completion, or at intervals
         as described in the Schedule of Work.
-    2.  Invoices are payable within 28 days.
+    2.  Invoices are payable within 20 days.
     3.  Common Knowledge will exercise the statutory right to claim interest and
         recovery costs on overdue invoices under the Late Payment legislation at
         8% over Bank of England base rate.
