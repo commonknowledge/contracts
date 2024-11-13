@@ -14,7 +14,7 @@ ACME supplies project
 
 ## Rate
 
-We charge on a time and materials basis at £XXX+VAT per developer day. We work in two-week iterations with a maximum of 8 developer days per developer per iteration.
+We charge on a time and materials basis at £XXX+VAT per hour. We work in two-week iterations with a maximum of 8 developer days per developer per iteration.
 
 The Common Knowledge team for each iteration will be decided on an iteration-by-iteration basis in discussion with the project owner and with regard to the iteration's deliverables.
 
