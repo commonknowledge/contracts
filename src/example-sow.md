@@ -22,7 +22,7 @@ Initially, the team will consist of two Common Knowledge members with the possib
 
 ## Payment arrangements
 
-Common Knowledge will invoice on the first working day of the month, payment to be received within 28 days.
+Common Knowledge will invoice on the first working day of the month, payment to be received within 20 days.
 
 ## Dates of work
 
