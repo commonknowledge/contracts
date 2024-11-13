@@ -134,9 +134,9 @@
 
 10. ### Intellectual property
 
-    1.  Intellectual property in the Work that is created by us shall belong to Common Knowledge.
+    1.  Intellectual property in any Work created by Common Knowledge in the course of performing the Project shall belong to Common Knowledge. Retaining these rights enables us to support our mission to empower grassroots organizers and communities by contributing portions of the Work to public and open-source repositories, licensing it openly, and incorporating it into projects that advance social and ecological justice. In any public versions, we will remove identifying information related to you. This provision does not affect your right to use the Work as provided in this agreement.
     2.  We grant you a perpetual, irrevocable, non-exclusive, royalty-free licence to use the Work in any manner you see fit.
-    3.  The Work may contain intellectual property owned by third parties. We will take all reasonable steps to ensure that any such intellectual property is licensed in such a way that you are able to make use of the Work as you see fit.
+    3.  The Work may contain intellectual property owned by third parties. We will take all reasonable steps to ensure that such third-party intellectual property is licensed for your intended use of the Work, but we make no representations or warranties regarding these rights except as expressly provided.
     4.  Common Knowledge may place links or representative screenshots of the Work along with your name or logos on a Common Knowledge website or within other promotional material. To the extent that these materials are owned by you, you agree to grant us a perpetual, irrevocable, non-exclusive, royalty-free licence that authorises this use.
 
 11. ### Payments
