@@ -1,8 +1,8 @@
-# Statement of work - Go Free Range and Wile E Coyote
+# Statement of work - Common Knowledge and Wile E Coyote
 
 ## Supplier
 
-Go Free Range Ltd (GFR)
+Common Knowledge Ltd (GFR)
 
 ## Client
 
@@ -69,7 +69,7 @@ MEEP MEEP!
 By signing below, the parties indicate that they have, read, understand and agree to the terms and conditions outlined in this contract.
 
 
-On behalf of Go Free Range:  
+On behalf of Common Knowledge:  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Signature
 
