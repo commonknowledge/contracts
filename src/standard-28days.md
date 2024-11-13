@@ -37,7 +37,7 @@
 
 3. ### Schedule of Work
 
-    1.  Before starting the Work, Common Knowledge will provide a Schedule of Work.
+    1.  Before starting the Work, Common Knowledge will provide a Schedule of Work. Any changes to the Schedule of Work will be documented and agreed upon in writing.
     2.  The Schedule of Work Common Knowledge provides will contain:
 
         1.  A description of the Work;
