@@ -134,18 +134,13 @@
 
 11. ### Payments
 
-    1.  Common Knowledge will issue invoices for the Work on completion, or at intervals
-        as described in the Schedule of Work.
-    2.  Invoices are payable within 20 days.
-    3.  Common Knowledge will exercise the statutory right to claim interest and
-        recovery costs on overdue invoices under the Late Payment legislation at
-        8% over Bank of England base rate.
-    4.  You shall make payment by BACS transfer or (if agreed in advance with Common Knowledge)
-        credit or debit card. Common Knowledge does not accept cheques.
-    5.  VAT (where applicable) is payable on, and in addition to, all sums
-        due under this agreement.
-    6.  Common Knowledge issues invoices by email. If you require a paper invoice to be
-        issued, Common Knowledge may charge an additional fee.
+    1. Common Knowledge will issue invoices for the Work on completion, or at intervals as described in the Schedule of Work.
+    2. Invoices are payable within 20 days of the issue date.
+    3. If you dispute any invoice, you must notify Common Knowledge in writing within 7 days of receipt. Both parties agree to work promptly toward resolution.
+    4. Common Knowledge will exercise the statutory right to claim interest and recovery costs on overdue invoices under the Late Payment legislation at 8% over the Bank of England base rate.
+    5. Payment must be made via BACS transfer or, if agreed in advance with Common Knowledge, by credit or debit card. Cheques are not accepted.
+    6. VAT (where applicable) is payable on, and in addition to, all sums due under this agreement.
+    7. Common Knowledge issues invoices by email. If you require a paper invoice, an additional fee may apply.
 
 12. ### Circumstances beyond our control
 
