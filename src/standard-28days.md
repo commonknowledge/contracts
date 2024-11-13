@@ -134,10 +134,10 @@
 
 10. ### Intellectual property
 
-    1.  Intellectual property in the Work that is created by us shall belong to dxw.
+    1.  Intellectual property in the Work that is created by us shall belong to Common Knowledge.
     2.  We grant you a perpetual, irrevocable, non-exclusive, royalty-free licence to use the Work in any manner you see fit.
     3.  The Work may contain intellectual property owned by third parties. We will take all reasonable steps to ensure that any such intellectual property is licensed in such a way that you are able to make use of the Work as you see fit.
-    4.  dxw may place links or representative screenshots of the Work along with your name or logos on a dxw website or within other promotional material. To the extent that these materials are owned by you, you agree to grant us a perpetual, irrevocable, non-exclusive, royalty-free licence that authorises this use.
+    4.  Common Knowledge may place links or representative screenshots of the Work along with your name or logos on a Common Knowledge website or within other promotional material. To the extent that these materials are owned by you, you agree to grant us a perpetual, irrevocable, non-exclusive, royalty-free licence that authorises this use.
 
 11. ### Payments
 
