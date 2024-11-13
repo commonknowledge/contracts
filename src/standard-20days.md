@@ -139,7 +139,7 @@
     3. If you dispute any invoice, you must notify Common Knowledge in writing within 7 days of receipt. Both parties agree to work promptly toward resolution.
     4. Common Knowledge will exercise the statutory right to claim interest and recovery costs on overdue invoices under the Late Payment legislation at 8% over the Bank of England base rate.
     5. Payment must be made via BACS transfer or, if agreed in advance with Common Knowledge, by credit or debit card. Cheques are not accepted.
-    6. VAT (where applicable) is payable on, and in addition to, all sums due under this agreement.
+    6. VAT (where applicable) is payable in addition to the amounts due under this agreement.
     7. Common Knowledge issues invoices by email. If you require a paper invoice, an additional fee may apply.
 
 12. ### Circumstances beyond our control
