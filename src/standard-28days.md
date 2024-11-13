@@ -1,13 +1,10 @@
 # General terms
 
-## 25th May 2018 
+## 25th May 2018
 
 1. ### Parties
 
-    1.  This agreement is between Go Free Range Ltd, a company
-        registered in England and Wales under number 06789592, trading as
-        "Go Free Range", and the organisation or person specified on the order
-        summary accompanying this document.
+1.  This agreement is between Common Knowledge Co-operative Ltd, a company incorporated in England and Wales with registered number 1620742, whose registered office is at Pelican House, 138–148 Cambridge Heath Road, London E15QJ, trading as "Common Knowledge", and the organisation or person specified on the schedule of work accompanying this document.
 
 2. ### Definitions
 
