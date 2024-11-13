@@ -1,5 +1,3 @@
-
-
 # Supply of Services Agreement
 
 ### Parties
