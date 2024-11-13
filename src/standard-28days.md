@@ -91,18 +91,11 @@
 
 8. ### Limitation of liability
 
-    1.  Common Knowledge cannot guarantee perfect reliability.
-    2.  Common Knowledge will deliver Work that is as robust and reliable as is
-        reasonably practical.
-    4.  Common Knowledge will not be liable for any loss of profits or reputation
-        that you suffer, directly or indirectly, as a consequence of the Work.
-    5.  You agree that it is your responsibility to ensure that you put
-        in place measures that make you able to operate in the event of
-        any such failure. Common Knowledge can work with you to design or implement
-        such measures at your request for an agreed fee.
-    6.  Nothing in this agreement should be read as excluding our
-        liability for death or personal injury caused by our negligence.
-    7.  In any event, Common Knowledge's total liability under this agreement is
+    1.  Common Knowledge will make every reasonable effort to deliver Work that is reliable and suitable for its intended purpose. However, we cannot guarantee uninterrupted or flawless performance.
+    2.  Common Knowledge shall not be liable for any indirect or consequential losses, including any loss of profits, reputation, or business interruption, arising from or in connection with the Work.
+    3.  You agree to maintain appropriate measures to ensure your operations can continue in the event of an interruption. At your request and for an agreed fee, Common Knowledge can assist in designing or implementing such measures.
+    4.  This agreement does not exclude liability for death or personal injury caused by negligence to the extent required by law.
+    5.  In any event, Common Knowledge's total liability under this agreement is
         limited to the lesser of:
 
         1. The fee for the Work.
