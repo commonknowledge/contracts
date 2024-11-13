@@ -37,10 +37,10 @@
     :   A Project is a series of iterations to complete work that will
         meet a specified set of goals.
 
-3. ### Proposal
+3. ### Schedule of Work
 
-    1.  Before starting the Work, Common Knowledge will provide a proposal.
-    2.  The proposal Common Knowledge provides will contain:
+    1.  Before starting the Work, Common Knowledge will provide a Schedule of Work.
+    2.  The Schedule of Work Common Knowledge provides will contain:
 
         1.  A description of the Work;
         2.  An indication of when the Work will begin and end;
@@ -51,7 +51,7 @@
 
 4. ### The Work
 
-    1.  Common Knowledge will complete the Work as described in the proposal.
+    1.  Common Knowledge will complete the Work as described in the Schedule of Work.
     2.  At any time, you may request that some aspect of the Work
         be changed. Common Knowledge will make reasonable efforts to comply
         with that request.
@@ -62,9 +62,9 @@
         the Work, and ask for your feedback.
     5.  If you send us feedback, we will (at no extra charge) spend
         more time on the Work, up to a maximum of 15% of the staff
-        time estimated in the proposal.
+        time estimated in the Schedule of Work.
     6.  If you require further changes after this time has been spent,
-        Common Knowledge will provide a proposal for a new piece of Work.
+        Common Knowledge will provide a Schedule of Work for a new piece of Work.
 
 5. ### Required Materials
 
@@ -74,7 +74,7 @@
         practical.
     3.  If Common Knowledge does not have the Required Materials promptly, we may
         not be able to complete the Work within the deadlines specified
-        in the proposal.
+        in the Schedule of Work.
 
 6. ### Subcontracting
 
@@ -160,7 +160,7 @@
 11. ### Payments
 
     1.  Common Knowledge will issue invoices for the Work on completion, or at intervals
-        as described in the proposal.
+        as described in the Schedule of Work.
     2.  Invoices are payable within 28 days.
     3.  Common Knowledge will exercise the statutory right to claim interest and
         recovery costs on overdue invoices under the Late Payment legislation at
@@ -209,14 +209,14 @@
 17. ### Whole agreement
 
     1.  With the exception of any framework agreement of which this agreement forms a part,
-        this agreement and the proposal that accompanies it constitute the entire
+        this agreement and the Schedule of Work that accompanies it constitute the entire
         agreement between us with respect to the Work, and replaces any prior oral or
         written agreement which may exist.
 
 18. ### Termination
 
     1.  Either party may terminate this contract at any time by giving us 30 days'
-        notice in writing, unless otherwise agreed in the Work proposal.
+        notice in writing, unless otherwise agreed in the Work Schedule of Work.
 
     2.  Common Knowledge may terminate this contract without notice if you are in material
         breach.
