@@ -140,8 +140,7 @@
 
 12. ### Circumstances beyond our control
 
-    1.  Common Knowledge will not be liable for any failure caused by industrial
-        action or other circumstances beyond our reasonable control.
+    1.  Common Knowledge will not be liable for any failure to perform or delay in performing our obligations under this agreement if that failure or delay is due to causes beyond our reasonable control, including but not limited to industrial action, natural disasters, government regulations, pandemics, supply chain disruptions, or other unforeseen events that prevent us from fulfilling our responsibilities.
 
 13. ### Changes to these terms
 
