@@ -2,7 +2,7 @@
 
 1. ### Parties
 
-1.  This agreement is between Common Knowledge Co-operative Ltd, a company incorporated in England and Wales with registered number 1620742, whose registered office is at Pelican House, 138–148 Cambridge Heath Road, London E15QJ, trading as "Common Knowledge", and the organisation or person specified on the schedule of work accompanying this document.
+1.  This agreement is between Common Knowledge Co-operative Ltd, a company incorporated in England and Wales with registered number 1620742, whose registered office is at Pelican House, 138–148 Cambridge Heath Road, London E15QJ, trading as "Common Knowledge", and the organisation or person specified on the schedule of work accompanying this document (referred to in this agreement as 'you').
 
 2. ### Definitions
 
