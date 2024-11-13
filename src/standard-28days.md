@@ -9,7 +9,7 @@
 2. ### Definitions
 
     Work
-    :   The Work is a specific set of activities (carried out by Go Free Range for
+    :   The Work is a specific set of activities (carried out by Common Knowledge for
         a fee) with a tangible outcome.
 
     Feedback Period
@@ -18,7 +18,7 @@
         complete.
 
     Required Materials
-    :   Required Materials are things that Go Free Range needs in order to
+    :   Required Materials are things that Common Knowledge needs in order to
         complete the Work or part of it, including but not limited
         to images, text content, licences, consents, or clear
         instructions.
@@ -39,8 +39,8 @@
 
 3. ### Proposal
 
-    1.  Before starting the Work, Go Free Range will provide a proposal.
-    2.  The proposal Go Free Range provides will contain:
+    1.  Before starting the Work, Common Knowledge will provide a proposal.
+    2.  The proposal Common Knowledge provides will contain:
 
         1.  A description of the Work;
         2.  An indication of when the Work will begin and end;
@@ -51,11 +51,11 @@
 
 4. ### The Work
 
-    1.  Go Free Range will complete the Work as described in the proposal.
+    1.  Common Knowledge will complete the Work as described in the proposal.
     2.  At any time, you may request that some aspect of the Work
-        be changed. Go Free Range will make reasonable efforts to comply
+        be changed. Common Knowledge will make reasonable efforts to comply
         with that request.
-    3.  If the Work changes, Go Free Range may charge additional fees. We will
+    3.  If the Work changes, Common Knowledge may charge additional fees. We will
         agree any such fees with you before proceeding further with
         the Work.
     4.  When we believe the Work has been completed, we will show you
@@ -64,7 +64,7 @@
         more time on the Work, up to a maximum of 15% of the staff
         time estimated in the proposal.
     6.  If you require further changes after this time has been spent,
-        Go Free Range will provide a proposal for a new piece of Work.
+        Common Knowledge will provide a proposal for a new piece of Work.
 
 5. ### Required Materials
 
@@ -72,39 +72,39 @@
         Required Materials that you must provide.
     2.  You must provide Required Materials as soon as is reasonably
         practical.
-    3.  If Go Free Range does not have the Required Materials promptly, we may
+    3.  If Common Knowledge does not have the Required Materials promptly, we may
         not be able to complete the Work within the deadlines specified
         in the proposal.
 
 6. ### Subcontracting
 
-    1.  At Go Free Range's sole discretion, freelancers or contractors may be used
-        in place of Go Free Range employees in order to complete some or all of the Work.
-    2.  Go Free Range will not outsource the Work without your prior agreement, which
+    1.  At Common Knowledge's sole discretion, freelancers or contractors may be used
+        in place of Common Knowledge employees in order to complete some or all of the Work.
+    2.  Common Knowledge will not outsource the Work without your prior agreement, which
         must not be unreasonably withheld or delayed.
 
 7. ### Quality
 
-    1.  Go Free Range will deliver the Work to a professional standard.
-    2.  Go Free Range is insured against professional negligence to a value of
+    1.  Common Knowledge will deliver the Work to a professional standard.
+    2.  Common Knowledge is insured against professional negligence to a value of
         £1,000,000 (the "insured sum"). We would be willing to negotiate an
         increase in the insured sum on condition that we were able to pass
         on any corresponding increase in the premium.
 
 8. ### Limitation of liability
 
-    1.  Go Free Range cannot guarantee perfect reliability.
-    2.  Go Free Range will deliver Work that is as robust and reliable as is
+    1.  Common Knowledge cannot guarantee perfect reliability.
+    2.  Common Knowledge will deliver Work that is as robust and reliable as is
         reasonably practical.
-    4.  Go Free Range will not be liable for any loss of profits or reputation
+    4.  Common Knowledge will not be liable for any loss of profits or reputation
         that you suffer, directly or indirectly, as a consequence of the Work.
     5.  You agree that it is your responsibility to ensure that you put
         in place measures that make you able to operate in the event of
-        any such failure. Go Free Range can work with you to design or implement
+        any such failure. Common Knowledge can work with you to design or implement
         such measures at your request for an agreed fee.
     6.  Nothing in this agreement should be read as excluding our
         liability for death or personal injury caused by our negligence.
-    7.  In any event, Go Free Range's total liability under this agreement is
+    7.  In any event, Common Knowledge's total liability under this agreement is
         limited to the lesser of:
 
         1. The fee for the Work.
@@ -112,22 +112,22 @@
 
 9. ### Confidentiality
 
-    1.  Go Free Range believe that it is best to be open.
-    2.  Go Free Range will generally not keep the details of the Work
+    1.  Common Knowledge believe that it is best to be open.
+    2.  Common Knowledge will generally not keep the details of the Work
         confidential, including but not limited to:
 
-        1.  The fact that Go Free Range has a commercial relationship with you;
+        1.  The fact that Common Knowledge has a commercial relationship with you;
         2.  The nature and goals of the Work;
         3.  The Work's likely completion date(s);
         4.  The fee for the Work.
 
-    3.  However, Go Free Range do regard the following as confidential:
+    3.  However, Common Knowledge do regard the following as confidential:
 
         1.  The specific content of documents or copy that will be
             published on any of your websites that is not yet publicly
             available, most especially the content of forthcoming
             strategy or policy announcements;
-        2.  Personal data Go Free Range acquires during the course of the Work;
+        2.  Personal data Common Knowledge acquires during the course of the Work;
         3.  The content or existence of any document you send to us that
             is protectively marked.
 
@@ -148,8 +148,8 @@
     5.  We will take all reasonable steps to ensure that Background IP that is
         not Reused IP is licensed in such a way that you are able to make use of
         it as part of the Product.
-    6.  Go Free Range may place links or representative screenshots of the materials we create
-        for our clients along with their names or logos on a Go Free Range website or within
+    6.  Common Knowledge may place links or representative screenshots of the materials we create
+        for our clients along with their names or logos on a Common Knowledge website or within
         other promotional material. To the extent that these materials are owned by
         you, you agree to grant us a perpetual, irrevocable, non-exclusive,
         royalty-free licence that authorises this use.
@@ -159,33 +159,33 @@
 
 11. ### Payments
 
-    1.  Go Free Range will issue invoices for the Work on completion, or at intervals
+    1.  Common Knowledge will issue invoices for the Work on completion, or at intervals
         as described in the proposal.
     2.  Invoices are payable within 28 days.
-    3.  Go Free Range will exercise the statutory right to claim interest and
+    3.  Common Knowledge will exercise the statutory right to claim interest and
         recovery costs on overdue invoices under the Late Payment legislation at
         8% over Bank of England base rate.
-    4.  You shall make payment by BACS transfer or (if agreed in advance with Go Free Range)
-        credit or debit card. Go Free Range does not accept cheques.
+    4.  You shall make payment by BACS transfer or (if agreed in advance with Common Knowledge)
+        credit or debit card. Common Knowledge does not accept cheques.
     5.  VAT (where applicable) is payable on, and in addition to, all sums
         due under this agreement.
-    6.  Go Free Range issues invoices by email. If you require a paper invoice to be
-        issued, Go Free Range may charge an additional fee.
+    6.  Common Knowledge issues invoices by email. If you require a paper invoice to be
+        issued, Common Knowledge may charge an additional fee.
 
 12. ### Circumstances beyond our control
 
-    1.  Go Free Range will not be liable for any failure caused by industrial
+    1.  Common Knowledge will not be liable for any failure caused by industrial
         action or other circumstances beyond our reasonable control.
 
 13. ### Changes to these terms
 
-    1.  Go Free Range may vary these terms at any time upon giving you prior
+    1.  Common Knowledge may vary these terms at any time upon giving you prior
         written notice.
     2.  If any proposed change in these terms puts you at a material
         disadvantage you may send us a written objection, in which case,
         the change will not be binding on you.
     3.  Any such written objection must be sent within 14 days of the
-        the notice Go Free Range sends you.
+        the notice Common Knowledge sends you.
     4.  This clause does not apply if it would violate the terms of a
         framework agreement of which this agreement forms a part.
 
@@ -218,10 +218,10 @@
     1.  Either party may terminate this contract at any time by giving us 30 days'
         notice in writing, unless otherwise agreed in the Work proposal.
 
-    2.  Go Free Range may terminate this contract without notice if you are in material
+    2.  Common Knowledge may terminate this contract without notice if you are in material
         breach.
 
-    3.  At the end of this contract, Go Free Range will issue a final invoice for any services
+    3.  At the end of this contract, Common Knowledge will issue a final invoice for any services
         delivered up to the date of termination, which you shall pay.
 
 # Signatures
@@ -229,7 +229,7 @@
 By signing below, the parties indicate that they have, read, understand and agree to the terms and conditions outlined in this contract.
 
 
-On behalf of Go Free Range:  
+On behalf of Common Knowledge:  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Signature
 
