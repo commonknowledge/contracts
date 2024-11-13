@@ -2,7 +2,7 @@
 
 ## Supplier
 
-Common Knowledge Ltd (GFR)
+Common Knowledge Ltd (Common Knowledge)
 
 ## Client
 
@@ -16,13 +16,13 @@ ACME supplies project
 
 We charge on a time and materials basis at £XXX+VAT per developer day. We work in two-week iterations with a maximum of 8 developer days per developer per iteration.
 
-The GFR team for each iteration will be decided on an iteration-by-iteration basis in discussion with the project owner and with regard to the iteration's deliverables.
+The Common Knowledge team for each iteration will be decided on an iteration-by-iteration basis in discussion with the project owner and with regard to the iteration's deliverables.
 
-Initially, the team will consist of two GFR members with the possibility of adding more as the project continues, or to deliver specific pre-agreed project requirements.
+Initially, the team will consist of two Common Knowledge members with the possibility of adding more as the project continues, or to deliver specific pre-agreed project requirements.
 
 ## Payment arrangements
 
-GFR will invoice on the first working day of the month, payment to be received within 28 days.
+Common Knowledge will invoice on the first working day of the month, payment to be received within 28 days.
 
 ## Dates of work
 
@@ -42,12 +42,12 @@ ACME supplies project is Wile E Coyote's ongoing work to catch the road-runner.
 Wile E Coyote will:
 
 * paint tunnels on the side of rocks
-* provide a project owner and project manager to work alongside GFR
+* provide a project owner and project manager to work alongside Common Knowledge
 * provide design and UX support and feedback for the project
 * arrange user-testing and feedback sessions as may be required for the project
 * provide infrastructure and hosting for the service as it develops
 
-GFR will:
+Common Knowledge will:
 
 * supply rockets, springs, cannon and other devices
 * build and release new software frequently, at least every iteration, and present project progress iterationly to wider stakeholders
