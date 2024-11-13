@@ -73,8 +73,7 @@
 
 6. ### Subcontracting
 
-    1.  At Common Knowledge's sole discretion, freelancers or contractors may be used
-        in place of Common Knowledge employees in order to complete some or all of the Work. Common Knowledge ensures that all subcontracted work meets our professional quality standards.
+    1.  At Common Knowledge's sole discretion, freelancers or contractors may be used in place of Common Knowledge employees in order to complete some or all of the Work. Common Knowledge ensures that all subcontracted work meets our professional quality standards.
     2.  Common Knowledge will not outsource the Work without your prior agreement, which
         must not be unreasonably withheld or delayed.
 
