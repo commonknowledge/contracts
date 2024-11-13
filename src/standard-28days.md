@@ -213,7 +213,7 @@
 
 18. ### Termination
 
-    1.  Either party may terminate this contract at any time by giving us 30 days'
+    1.  Either party may terminate this contract at any time by giving us 7 days'
         notice in writing, unless otherwise agreed in the Work Schedule of Work.
 
     2.  Common Knowledge may terminate this contract without notice if you are in material
