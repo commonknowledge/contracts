@@ -87,7 +87,7 @@
 
     1.  Common Knowledge will deliver the Work to a professional standard.
     2.  Common Knowledge is insured against professional negligence to a value of
-        £1,000,000 (the "insured sum"). We would be willing to negotiate an
+        £XXXX (the "insured sum"). We would be willing to negotiate an
         increase in the insured sum on condition that we were able to pass
         on any corresponding increase in the premium.
 
