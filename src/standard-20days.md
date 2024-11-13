@@ -53,14 +53,11 @@
     2.  At any time, you may request that some aspect of the Work
         be changed. Common Knowledge will make reasonable efforts to comply
         with that request.
-    3.  If the Work changes, Common Knowledge may charge additional fees. We will
-        agree any such fees with you before proceeding further with
+    3.  If the Work changes, Common Knowledge may charge additional fees. We will agree any such fees with you before proceeding further with
         the Work.
     4.  When we believe the Work has been completed, we will show you
         the Work, and ask for your feedback.
-    5.  If you send us feedback, we will (at no extra charge) spend
-        more time on the Work, up to a maximum of 15% of the staff
-        time estimated in the Schedule of Work.
+    5.  If you send us feedback, we will (at no extra charge) spend more time on the Work, up to a maximum of 15% of the staff time estimated in the Schedule of Work. This time is intended for minor adjustments or non-substantial amendments only.
     6.  If you require further changes after this time has been spent,
         Common Knowledge will provide a Schedule of Work for a new piece of Work.
 
