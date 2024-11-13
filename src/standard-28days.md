@@ -134,26 +134,10 @@
 
 10. ### Intellectual property
 
-    1.  Intellectual property in work created by us in the course of working on
-        a Project and that also forms a part of the Product ("Project IP") shall,
-        (as a future assignment of intellectual property) belong to you, subject
-        to the licences set out in this agreement.
-    2.  "Background IP" means any intellectual property used in the Product that
-        is not Project IP and "Reused IP" means any Background IP which we own.
-    3.  You do not become the owner of any Background IP.
-    4.  We grant you a perpetual, irrevocable, non-exclusive, royalty-free licence
-        to the Reused IP for their use in the Product.
-    5.  We will take all reasonable steps to ensure that Background IP that is
-        not Reused IP is licensed in such a way that you are able to make use of
-        it as part of the Product.
-    6.  Common Knowledge may place links or representative screenshots of the materials we create
-        for our clients along with their names or logos on a Common Knowledge website or within
-        other promotional material. To the extent that these materials are owned by
-        you, you agree to grant us a perpetual, irrevocable, non-exclusive,
-        royalty-free licence that authorises this use.
-    7. We are neither able to enumerate the intellectual property your Product
-        contains, nor to state which parts are owned by you and which are Project
-        IP or Reused IP.
+    1.  Intellectual property in the Work that is created by us shall belong to dxw.
+    2.  We grant you a perpetual, irrevocable, non-exclusive, royalty-free licence to use the Work in any manner you see fit.
+    3.  The Work may contain intellectual property owned by third parties. We will take all reasonable steps to ensure that any such intellectual property is licensed in such a way that you are able to make use of the Work as you see fit.
+    4.  dxw may place links or representative screenshots of the Work along with your name or logos on a dxw website or within other promotional material. To the extent that these materials are owned by you, you agree to grant us a perpetual, irrevocable, non-exclusive, royalty-free licence that authorises this use.
 
 11. ### Payments
 
