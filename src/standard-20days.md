@@ -10,23 +10,13 @@
 
    Work :   The Work is a specific set of activities (carried out by Common Knowledge for a fee) with a tangible outcome.
 
-   
-
    Feedback Period :   The Feedback Period is the amount of staff time available to make small changes and amendments to the Work after we believe it is complete.
-
-   
 
    Required Materials :   Required Materials are things that Common Knowledge needs in order to complete the Work or part of it, including but not limited to images, text content, licences, consents, or clear instructions.
 
-   
-
    Product :   A collection of services and software which, when operational, will meet the goals specified in your Project Description.
 
-   
-
    Project Description :   A Project Description is a written explanation of your Project's goals and vision, the user needs you are trying to meet and the nature of the work that you expect will be required to meet those needs and achieve those goals.
-
-   
 
    Project :   A Project is a series of iterations to complete work that will meet a specified set of goals.
 
